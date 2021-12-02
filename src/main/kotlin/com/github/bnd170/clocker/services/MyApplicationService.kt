@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bnd170.clocker.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bnd170.clocker.MyBundle
 
 class MyApplicationService {
 
